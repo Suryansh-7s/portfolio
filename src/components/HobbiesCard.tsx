@@ -42,10 +42,9 @@ const HobbiesCard: React.FC<HobbiesCardProps> = ({ isDark }) => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            <li>Exploring OSINT tools</li>
-            <li>Participating in MUNs</li>
-            <li>Photography</li>
-            <li>Writing blog-style reflections on security trends</li>
+            <li>📸 Passionate about photography and visual storytelling.</li>
+            <li>🤝 Active in social outreach and community volunteering.</li>
+            <li>🔍 Exploring cybersecurity tools and participating in contests.</li>
           </motion.ul>
         </div>
       </div>
